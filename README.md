@@ -1,5 +1,5 @@
 # Global-Super-Store-Database
-![](database.jpg)
+![](database.png)
 
 ## About the Project ##
 
